@@ -1,0 +1,101 @@
+﻿[
+    {
+        "Template":  "heritage-utary",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  71,
+        "JS":  72,
+        "Images":  14,
+        "Fonts":  11,
+        "Videos":  1,
+        "Icons":  0,
+        "Screenshots":  1
+    },
+    {
+        "Template":  "heritage-sandhayu",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  78,
+        "JS":  72,
+        "Images":  27,
+        "Fonts":  12,
+        "Videos":  1,
+        "Icons":  0,
+        "Screenshots":  1
+    },
+    {
+        "Template":  "heritage-aruna",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  68,
+        "JS":  71,
+        "Images":  34,
+        "Fonts":  11,
+        "Videos":  0,
+        "Icons":  0,
+        "Screenshots":  1
+    },
+    {
+        "Template":  "premium-01",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  75,
+        "JS":  63,
+        "Images":  9,
+        "Fonts":  19,
+        "Videos":  1,
+        "Icons":  4,
+        "Screenshots":  1
+    },
+    {
+        "Template":  "premium-02",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  71,
+        "JS":  70,
+        "Images":  9,
+        "Fonts":  13,
+        "Videos":  1,
+        "Icons":  5,
+        "Screenshots":  1
+    },
+    {
+        "Template":  "premium-danila",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  65,
+        "JS":  70,
+        "Images":  10,
+        "Fonts":  15,
+        "Videos":  0,
+        "Icons":  0,
+        "Screenshots":  1
+    },
+    {
+        "Template":  "premium-ivanna",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  73,
+        "JS":  70,
+        "Images":  30,
+        "Fonts":  11,
+        "Videos":  1,
+        "Icons":  5,
+        "Screenshots":  1
+    },
+    {
+        "Template":  "premium-kila",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  70,
+        "JS":  70,
+        "Images":  12,
+        "Fonts":  13,
+        "Videos":  1,
+        "Icons":  4,
+        "Screenshots":  1
+    },
+    {
+        "Template":  "premium-flara",
+        "HTML":  "rendered.html,source.html",
+        "CSS":  72,
+        "JS":  70,
+        "Images":  12,
+        "Fonts":  10,
+        "Videos":  1,
+        "Icons":  5,
+        "Screenshots":  1
+    }
+]

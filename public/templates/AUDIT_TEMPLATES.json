@@ -1,0 +1,92 @@
+﻿[
+    {
+        "Index":  1,
+        "Dir":  "heritage-utary",
+        "Name":  "Heritage Utary",
+        "URL":  "https://attarivitation.com/demo-heritage-series-utary/",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  372353,
+        "RenderedLen":  387016
+    },
+    {
+        "Index":  2,
+        "Dir":  "heritage-sandhayu",
+        "Name":  "Heritage Sandhayu",
+        "URL":  "https://attarivitation.com/demo-heritage-series-sandhayu-v2/",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  511245,
+        "RenderedLen":  509252
+    },
+    {
+        "Index":  3,
+        "Dir":  "heritage-aruna",
+        "Name":  "Heritage Aruna",
+        "URL":  "https://attarivitation.com/demo-heritage-series-aruna-v2/",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  433435,
+        "RenderedLen":  447347
+    },
+    {
+        "Index":  4,
+        "Dir":  "premium-01",
+        "Name":  "Premium 01",
+        "URL":  "https://attarivitation.com/demo-premium-01/?to=Tamu+Undangan\u0026cat=1",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  362671,
+        "RenderedLen":  436743
+    },
+    {
+        "Index":  5,
+        "Dir":  "premium-02",
+        "Name":  "Premium 02",
+        "URL":  "https://attarivitation.com/demo-premium-02/?to=Tamu+Undangan\u0026cat=1",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  460274,
+        "RenderedLen":  542290
+    },
+    {
+        "Index":  6,
+        "Dir":  "premium-danila",
+        "Name":  "Premium Danila",
+        "URL":  "https://attarivitation.com/demo-premium-06-danila-redesign/?to=Tamu+Undangan\u0026cat=1",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  333611,
+        "RenderedLen":  406480
+    },
+    {
+        "Index":  7,
+        "Dir":  "premium-ivanna",
+        "Name":  "Premium Ivanna",
+        "URL":  "https://attarivitation.com/demo-premium-09-ivanna/?to=Tamu+Undangan\u0026cat=1",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  337684,
+        "RenderedLen":  396470
+    },
+    {
+        "Index":  8,
+        "Dir":  "premium-kila",
+        "Name":  "Premium Kila",
+        "URL":  "https://attarivitation.com/demo-premium-11-kila/?to=Tamu+Undangan\u0026cat=1",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  358220,
+        "RenderedLen":  408640
+    },
+    {
+        "Index":  9,
+        "Dir":  "premium-flara",
+        "Name":  "Premium Flara",
+        "URL":  "https://attarivitation.com/demo-premium-10-flara/?to=Tamu+Undangan\u0026cat=1",
+        "HasSource":  true,
+        "HasRendered":  true,
+        "SourceLen":  329336,
+        "RenderedLen":  371916
+    }
+]
